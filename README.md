@@ -34,7 +34,8 @@ node teaswap.js
 screen -r teaswap
 ```
 
-\nsupport by MyBrain & Chat GPT AI
+
+nsupport by MyBrain & Chat GPT AI
 
 ## ☕ Donate for Coffee
 
