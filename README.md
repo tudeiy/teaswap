@@ -35,7 +35,7 @@ screen -r teaswap
 ```
 
 
-nsupport by MyBrain & Chat GPT AI
+# support by MyBrain & Chat GPT AI
 
 ## ☕ Donate for Coffee
 
