@@ -50,12 +50,5 @@ npm init -y
 echo "📦 Install dependency: ethers, dotenv, prompt-sync..."
 npm install ethers dotenv prompt-sync
 
-# 8. Buat file .env kosong (user bisa edit manual nanti)
-echo "🔐 Membuat file .env..."
-cat <<EOL > .env
-PRIVATE_KEY=
-RPC_URL=https://tea-sepolia.g.alchemy.com/public
-EOL
-
 # 9. Pesan selesai
 echo "▶️ Jalankan script dengan: node teaswap.js"
