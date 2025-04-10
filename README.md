@@ -36,6 +36,10 @@ screen -r teaswap
 
 support by MyBrain & Chat GPT AI
 
-# Donate for coffee haha
-- EVM : 0xE70Cfda5FE920d0439752D1Cc8081Ef58479aC85
-- SOL : J6qmkXTnngtWeK1JU5kHjfuRrnwgtiLN5QwsRdPjj27C
+## ☕ Donate for Coffee
+
+**EVM Address**  
+`0xE70Cfda5FE920d0439752D1Cc8081Ef58479aC85`
+
+**SOL Address**  
+`J6qmkXTnngtWeK1JU5kHjfuRrnwgtiLN5QwsRdPjj27C`
