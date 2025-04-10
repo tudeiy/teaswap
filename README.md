@@ -28,6 +28,7 @@ nano .env
 ```
 node teaswap.js
 ```
+**isi aja swap 60x (itu sama dengan 120x swap)**
 # Fungsi tambahan 
 **cara masuk screen**
 ```
